@@ -59,3 +59,33 @@ Repositório do curso de **Git e GitHub** do Curso em Vídeo
 | 1      | Rafael  | 10,0 |
 | 2      | Gustavo | 8,5  |
 | 3      | Ágatha  | 9,0  |
+
+---
+
+### Códigos
+
+```
+print("-------Impar ou Par-------")
+n = int(input("Digite um número"))
+if n % 2 == 0:
+     print("PAR!")
+else:
+     print("IMPAR!)
+```
+
+---
+
+### Emojis
+
+🤑👌🖖
+:monkey::hand::volcano:
+
+---
+
+---
+
+### Links para Usuários
+
+Adoro os cursos do @gustavoguanabara (funciona em issues)
+
+---
