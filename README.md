@@ -43,3 +43,11 @@ Repositório do curso de **Git e GitHub** do Curso em Vídeo
 ### Imagens
 
 ![Minha fotinha](./img/minha_foto.jpeg)
+
+---
+
+### Links
+
+- [Acesse meu GitHub](https://github.com/rafaelsantiagosilva)
+
+---
