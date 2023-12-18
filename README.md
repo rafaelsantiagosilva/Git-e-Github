@@ -51,3 +51,11 @@ Repositório do curso de **Git e GitHub** do Curso em Vídeo
 - [Acesse meu GitHub](https://github.com/rafaelsantiagosilva)
 
 ---
+
+### Tabelas
+
+| Numero | Nome    | Nota |
+| ------ | ------- | ---- |
+| 1      | Rafael  | 10,0 |
+| 2      | Gustavo | 8,5  |
+| 3      | Ágatha  | 9,0  |
